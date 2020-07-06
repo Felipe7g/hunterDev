@@ -2,7 +2,7 @@
 Encontre desenvolvedores disponíveis para seu projeto, com o HunterDev o usuário devs próximos da sua localização, basta pesquisdar a tecnologia requerida e pronto.
 
 <h1 align="center">
-    <img alt="DevRadar" title="#delicinha" src="logo.svg" width="250px" />
+    <img src="logo.svg" width="250px" />
 </h1>
 
 <p align="center">
