@@ -2,7 +2,7 @@
 Encontre desenvolvedores disponíveis para seu projeto, com o HunterDev o usuário devs próximos da sua localização, basta pesquisdar a tecnologia requerida e pronto.
 
   <h1 align="center">
-    <img alt="HunterDev" src="logo.svg" width="500px" />
+    <img alt="" src="logo.svg" width="500px" />
  </h1>
 
 <p align="center">
@@ -24,5 +24,5 @@ O DevRadar é um projeto que visa conectar desenvolvedores próximos a você que
 
 ---
 <h4 align="center">By Felipe7g</h4>
----
+
 
