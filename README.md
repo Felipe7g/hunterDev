@@ -2,12 +2,9 @@
 Encontre desenvolvedores disponíveis para seu projeto, com o HunterDev o usuário devs próximos da sua localização, basta pesquisdar a tecnologia requerida e pronto.
 
   <h1 align="center">
-    <img alt="" src="logo.svg" width="500px" />
+    <img alt="" src="logo.png" width="500px" />
  </h1>
 
-<p align="center">
-  <img alt="Frontend" src=".github/devradar.png" width="100%">
-</p>
 
 ## :rocket: Tecnologias
 
