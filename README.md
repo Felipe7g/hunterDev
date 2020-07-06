@@ -1,7 +1,7 @@
 # hunterDev
 Encontre desenvolvedores disponíveis para seu projeto, com o HunterDev o usuário devs próximos da sua localização, basta pesquisdar a tecnologia requerida e pronto.
 
-    <img src="logo.svg" />
+    <img src="logo.svg" width: 250px;>
 
 ## Tecnologias
 
