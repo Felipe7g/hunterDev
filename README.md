@@ -2,7 +2,7 @@
 Encontre desenvolvedores disponíveis para seu projeto, com o HunterDev o usuário devs próximos da sua localização, basta pesquisdar a tecnologia requerida e pronto.
 
   <h1 align="center">
-    <img alt="HunterDev" src="logo.svg" width="250px" />
+    <img alt="HunterDev" src="logo.svg" margin-bottom: 10px; width="500px" />
  </h1>
 
 <h4 align="center">
@@ -17,7 +17,7 @@ Encontre desenvolvedores disponíveis para seu projeto, com o HunterDev o usuár
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Rocketseat/semana-omnistack-10">
   </a>
 
-  <a href="https://github.com/Rocketseat/semana-omnistack-10/issues">
+ <a href="https://github.com/Rocketseat/semana-omnistack-10/issues">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/Rocketseat/semana-omnistack-10">
   </a>
 
@@ -51,24 +51,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevRadar é um projeto que visa conectar desenvolvedores próximos a você que trabalham com as mesmas tecnologias.
 
-## 🔖 Layout
-
-Você pode baixar o layout do projeto no formato `.sketch` através [desse link](.github/DevRadar.sketch).
-
-Para abrir o arquivo no formato `.sketch` em qualquer sistema operacional utilize a ferramenta [Figma](https://figma.com).
-
-## 🤔 Como contribuir
-
-- Faça um fork desse repositório;
-- Cria uma branch com a sua feature: `git checkout -b minha-feature`;
-- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
-- Faça push para a sua branch: `git push origin minha-feature`.
-
-Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
-
-## :memo: Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
+---
+<h4 align="center">By Felipe7g</h4>
 ---
 
