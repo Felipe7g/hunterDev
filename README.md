@@ -5,9 +5,6 @@ Encontre desenvolvedores disponíveis para seu projeto, com o HunterDev o usuár
     <img alt="DevRadar" title="#delicinha" src=".github/devradar.svg" width="250px" />
 </h1>
 
-<h4 align="center">
-  🚀 Semana OmniStack 10.0
-</h4>
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Rocketseat/semana-omnistack-10">
 
@@ -34,9 +31,6 @@ Encontre desenvolvedores disponíveis para seu projeto, com o HunterDev o usuár
 
 <br>
 
-<p align="center">
-  <img alt="Frontend" src=".github/devradar.png" width="100%">
-</p>
 
 ## Tecnologias
 
